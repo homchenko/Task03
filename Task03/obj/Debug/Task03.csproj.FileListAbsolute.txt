@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task03\Task03\bin\Debug\Task03.exe.config
+C:\Users\User\source\repos\Task03\Task03\bin\Debug\Task03.exe
+C:\Users\User\source\repos\Task03\Task03\bin\Debug\Task03.pdb
+C:\Users\User\source\repos\Task03\Task03\obj\Debug\Task03.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Task03\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task03\Task03\obj\Debug\Task03.exe
+C:\Users\User\source\repos\Task03\Task03\obj\Debug\Task03.pdb
+D:\VisualStudioProjects\Task03\Task03\bin\Debug\Task03.exe.config
+D:\VisualStudioProjects\Task03\Task03\bin\Debug\Task03.exe
+D:\VisualStudioProjects\Task03\Task03\bin\Debug\Task03.pdb
+D:\VisualStudioProjects\Task03\Task03\obj\Debug\Task03.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Task03\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Task03\Task03\obj\Debug\Task03.exe
+D:\VisualStudioProjects\Task03\Task03\obj\Debug\Task03.pdb
